@@ -67,8 +67,3 @@ en *Sistema de refugio en Uruguay: a 20 años de la Ley n.° 18.076*.
 FCU, 2026
 
 https://libros.fcu.edu.uy/index.php/fcu/en/catalog/book/158 
-
-## Sobre este repositorio
-Este espacio comparte el resumen, la metodología y los principales 
-hallazgos del capítulo. El texto completo está disponible en la 
-publicación original.
