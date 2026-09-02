@@ -61,7 +61,7 @@ solicitante y reconocida como refugiada.
   capacidad institucional para procesarla, con un ensanchamiento 
   progresivo del rezago administrativo desde 2016
 
-  ## Disponibilidad de datos
+## Disponibilidad de datos
 Los datos utilizados en este capítulo provienen de registros 
 administrativos de la Secretaría Permanente de la Comisión de 
 Refugiados (CORE) de Uruguay. 
