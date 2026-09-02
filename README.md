@@ -61,9 +61,62 @@ solicitante y reconocida como refugiada.
   capacidad institucional para procesarla, con un ensanchamiento 
   progresivo del rezago administrativo desde 2016
 
+  ## Disponibilidad de datos
+Los datos utilizados en este capítulo provienen de registros 
+administrativos de la Secretaría Permanente de la Comisión de 
+Refugiados (CORE) de Uruguay. 
+Se trata de datos administrativos de carácter institucional y no 
+público, por lo que **no se incluyen en este repositorio**.
+
+Este espacio comparte únicamente el resumen, la metodología y los 
+principales hallazgos del capítulo.
+
 ## Publicación
 📄 *Evolución demográfica del sistema de refugio en Uruguay (2005–2025)*, 
 en *Sistema de refugio en Uruguay: a 20 años de la Ley n.° 18.076*.
 FCU, 2026
-
 https://libros.fcu.edu.uy/index.php/fcu/en/catalog/book/158 
+
+## Referencias
+ACNUR. (2025). *Tendencias globales de desplazamiento forzado en 2024*. 
+https://www.acnur.org/media/tendencias-globales-de-desplazamiento-forzado-en-2024
+
+Gugelmeier, E. y Silvetti, L. (2021). Breve análisis de las medidas 
+adoptadas por el MERCOSUR para contener la propagación de la pandemia 
+y su impacto en la protección internacional. *Revista del Centro de 
+Excelencia Jean Monnet*, pp. 141-168.
+
+Ministerio de Relaciones Exteriores. (2024, 29 de mayo). *Gobierno 
+establece procedimiento abreviado para solicitantes de refugio 
+venezolanos*. https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/noticias/gobierno-establece-procedimiento-abreviado-para-solicitantes-refugio
+
+Ministerio de Relaciones Exteriores. (2025, 25 de febrero). *Avanza 
+regularización de migrantes gracias a nuevos mecanismos para 
+solicitantes de refugio*. https://www.gub.uy/ministerio-relaciones-exteriores/comunicacion/noticias/avanza-regularizacion-migrantes-gracias-nuevos-mecanismos-para-solicitantes
+
+Montealegre, N. y Uriarte, P. (2016). Entre el refugio y la 
+inmigración: un plan de reasentamiento para personas de origen sirio 
+en Uruguay. *Revista Encuentros Uruguayos*, pp. 19-34.
+
+Prieto, V. y Márquez, C. (2019). *Inclusión social de inmigrantes 
+recientes que residen en viviendas particulares de Uruguay*. 
+https://www.colibri.udelar.edu.uy/jspui/handle/20.500.12008/23222
+
+Rivero, S. (2020). *Estudio de flujos migratorios de cubanos hacia 
+Uruguay*. https://www.gub.uy/ministerio-desarrollo-social/sites/ministerio-desarrollo-social/files/2020-09/respuesta%20solicitud%20informaci%C3%B3n%20p%C3%BAblica.pdf
+
+Uruguay (2007). *Ley n.° 18076. Derecho al refugio y a los 
+refugiados. Ley de refugiados*. 
+https://www.impo.com.uy/bases/leyes/18076-2006/24
+
+Uruguay (2020). *Decreto n.° 104/020. Autorización del ingreso al 
+país únicamente de ciudadanos uruguayos y extranjeros residentes 
+provenientes del exterior*. https://www.impo.com.uy/bases/decretos/104-2020
+
+ACNUR. (2024, 31 de mayo). *ACNUR celebra nueva decisión de Uruguay 
+que lo posiciona como país modelo en la protección de personas 
+refugiadas*. https://www.acnur.org/noticias/comunicados-de-prensa/acnur-celebra-nueva-decision-de-uruguay-que-lo-posiciona-como-pais
+
+ACNUR. (2024, 5 de diciembre). *Uruguay lanza el programa de 
+«Residencias por Arraigo» para fortalecer la protección de personas 
+refugiadas*. https://www.acnur.org/noticias/comunicados-de-prensa/uruguay-lanza-el-programa-de-residencias-por-arraigo-para-fortalecer-la-proteccion-de-personas-refugiadas
